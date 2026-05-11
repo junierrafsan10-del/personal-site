@@ -1,0 +1,5 @@
+node_modules/
+.claude/settings.local.json
+screenshot.png
+screenshot_b64.txt
+dist/
